@@ -1,11 +1,11 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Meghana Menakuru | Personal Webpage",
+	"Name": "Meghana Menakuru",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"I'm an Optimistic person with excellent interpersonal and management skills, aspiring to see myself as a successful Software Engineer/Analyst in a leading firm.",
+		"Buckled up to chase my dreams, facing the toughest situations with the greatest courage."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://imgur.com/JaTOjwv",
 	"BackgroundURL": "",
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
@@ -22,11 +22,11 @@
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "Goldman Sachs",
 			"link": "#"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
+			"name": "Research Centre Imarat (DRDO)",
 			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
 		},
 		{
